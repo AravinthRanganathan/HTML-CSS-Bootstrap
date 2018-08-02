@@ -1,0 +1,25 @@
+h1{
+	text-align:center;
+	text-transform: capitalize;
+	color: yellow;
+	font-size: 25px;
+	background-color: red;
+}
+p{
+  color: red;
+  width: 100%;
+  border: 5px solid red;
+ margin: center;
+  background-color: #ffff68;
+  padding: 20px 20px 20px 20px;
+}
+html {
+
+	background-image: url("https://cdn.vox-cdn.com/thumbor/8rlS3L1y34DocPpv9v575e3dW-Y=/0x0:1004x753/920x613/filters:focal(0x0:1004x753):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49523369/20150428-cloud-computing.0.jpg");
+  background-repeat:no-repeat;
+  background-color: #99ffcc;
+  background-size: cover;
+  text-shadow: rgb(255, 255, 255);
+  font-size: 35px;
+  font-family: sans-serif;
+}

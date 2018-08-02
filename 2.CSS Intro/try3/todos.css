@@ -1,0 +1,14 @@
+body{
+	background: black;
+	color: white;
+}
+li{
+	/*border: .25px  solid white;*/
+}
+.special{
+	color: white;
+}
+.gd{
+	color: yellow;
+	/*text-decoration: underline;*/
+}

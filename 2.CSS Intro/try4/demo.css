@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+/*#om{
+	color: white;
+	text-decoration: none;
+	/*border: .2px solid white*/;
+}*/
+* {
+	border: 1px solid white;
+}
+ul li a[href="https://www.google.com"]{
+	color: green;
+	background: red;
+
+}
+a:hover{
+	background-color: yellow;
+	color: red;
+}
+h3 ul li{
+	color:yellow;
+	background-color: yellow;
+	text-decoration: line-through;
+}
+h3 + ul{
+	border: 2px solid red;
+}
+a[href="https://www.google.com"]{
+	background: yellow;
+}
+ul:nth-of-type(2){
+	background: red;
+}
+/*li:nth-of-type(even){
+	background: blue;
+}*/

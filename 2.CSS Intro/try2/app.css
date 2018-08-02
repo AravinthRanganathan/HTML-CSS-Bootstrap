@@ -1,0 +1,20 @@
+h1{
+	color: pink;
+	border-width: .2px;
+	border-color: rgba(255,000,000,.3);
+	border-style: dashed;
+
+	border: 2px red solid;
+}
+h3{
+	color: skyblue;
+	background:rgba(255,000,000,.3);
+}
+li{
+	color: green;
+}
+body{
+	background:url(dhoni3.jpg);
+	background-repeat: no-repeat;
+	background-size: unset;
+}
